@@ -1,5 +1,5 @@
 const functions = {
-  gradeClassifier = (grade) => {
+  gradeClassifier: (grade) => {
     // TODO: Write code here
   }
 }
