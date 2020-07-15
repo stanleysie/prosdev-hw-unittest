@@ -1,0 +1,15 @@
+{
+  "name": "prosdev-hw-unittest",
+  "version": "1.0.0",
+  "description": "Simple exercise for writing unit tests in Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --color"
+  },
+  "keywords": [],
+  "author": "Unisse C. Chua",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^26.1.0"
+  }
+}
