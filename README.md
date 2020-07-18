@@ -30,3 +30,5 @@ D | Did not Meet Expectation | 74.99 and below
 
 ## Results
 *TODO: Insert screenshot of the results from the command line*
+
+<img src='./src/unit-test-result.png'>
